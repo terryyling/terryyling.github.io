@@ -2,4 +2,13 @@ title: Terry Ling
 logo: /assets/img/headshot.png
 #description: 
 show_download: false
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: BDHU/minimalist
+color-scheme: auto
+sidebar:
+  - name: Curriculum Vitae
+    icon: <i class="fa-solid fa-file"></i>
+    link: /assets/pdf/cv.pdg
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin-in"></i>
+    link: https://www.linkedin.com/in/terryyling/

@@ -5,8 +5,8 @@ show_download: false
 #theme: jekyll-theme-minimal
 remote_theme: BDHU/minimalist
 color-scheme: auto
-email: terry dot lingyun at gmail dot com
-blank_title: true
+#email: terry dot lingyun at gmail dot com
+#blank_title: true
 sidebar:
   - name: Curriculum Vitae
     icon: <i class="fa-solid fa-file"></i>

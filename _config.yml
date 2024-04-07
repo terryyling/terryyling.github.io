@@ -1,6 +1,7 @@
 title: Terry Ling
 logo: /assets/img/headshot.png
-#description: 
+description: ""
+#google_analytics: 
 show_download: false
 #theme: jekyll-theme-minimal
 remote_theme: BDHU/minimalist

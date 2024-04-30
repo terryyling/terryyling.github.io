@@ -12,22 +12,22 @@
 ---
 
 ### Selected Professional Experience
-**Product Policy/Strategy Manager, TikTok**, *Dublin, Ireland*, May 2021 - Present  
+**Product Policy/Strategy Manager**, TikTok, *Dublin, Ireland*, May 2021 - Present  
   
-**Executive Assistant to the CEO, Moeda**, *New York, the US*, Oct 2017 - Sept 2018  
+**Executive Assistant to the CEO**, Moeda, *New York, the US*, Oct 2017 - Sept 2018  
 
-**Product Manager, The ONE Smart Piano**, *Beijing, China*, Mar 2015 - Aug 2015
+**Product Manager**, The ONE Smart Piano, *Beijing, China*, Mar 2015 - Aug 2015
   
-**Product Manager, Baidu**, *Beijing, China*, Jul 2013 - Mar 2015  
+**Product Manager**, Baidu, *Beijing, China*, Jul 2013 - Mar 2015  
 
 ---
 
 ### Selected Educational Experience
-**University of Chicago**, the United States, *M.A. Sociology*, 2021[^3]
+M.A. Sociology, *University of Chicago, the United States*, 2021[^3]  
   
-**University of Groningen**, the Netherlands, *M.A. European Studies*, 2017  
+M.A. European Studies, *University of Groningen, the Netherlands*, 2017  
   
-**Communication University of China**, China, *B.A. Portuguese Language and Culture*, 2014  
+B.A. Portuguese Language and Culture, *Communication University of China, China*, 2014  
 
 ---
   

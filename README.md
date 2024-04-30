@@ -21,12 +21,14 @@ Jul 2013 - Mar 2015: **Product Manager, Baidu**, *Beijing, China*
 ---
 
 ### Selected Educational Experience
-**University of Chicago**, the United States, *M.A. Sociology* 2021 (On Leave of Absence)  
+**University of Chicago**, the United States, *M.A. Sociology* 2021[^1]
   
 **University of Groningen**, the Netherlands, *M.A. European Studies*, 2017  
   
 **Communication University of China**, China, *B.A. Portuguese Language and Culture*, 2014  
 
+---
 
+[^1] Currently on an indefinitive leave of absence.
 
 

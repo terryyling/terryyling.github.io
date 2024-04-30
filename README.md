@@ -12,11 +12,13 @@
 ---
 
 ### Selected Professional Experience
-May 2021 - Present: **Product Policy/Strategy Manager, TikTok**, *Dublin, Ireland*  
+**Product Policy/Strategy Manager, TikTok**, *Dublin, Ireland*, May 2021 - Present  
   
-Oct 2017 - Sept 2018: **Executive Assistant to the CEO, Moeda**, *New York, the US*  
+**Executive Assistant to the CEO, Moeda**, *New York, the US*, Oct 2017 - Sept 2018  
+
+**Product Manager, The ONE Smart Piano**, *Beijing, China*, Mar 2015 - Aug 2015
   
-Jul 2013 - Mar 2015: **Product Manager, Baidu**, *Beijing, China*  
+**Product Manager, Baidu**, *Beijing, China*, Jul 2013 - Mar 2015  
 
 ---
 

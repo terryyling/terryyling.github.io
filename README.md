@@ -30,7 +30,7 @@ Jul 2013 - Mar 2015: **Product Manager, Baidu**, *Beijing, China*
 ---
   
 [^1]: [Basic Statistics by UvA](https://www.coursera.org/account/accomplishments/verify/QDUNXCMA3AZC).
-[^2]: [Python for Everybody by UMich](https://www.coursera.org/account/accomplishments/specialization/JHWWJPZ2TTEU), [Data Science: Foundation Using R by JHU](https://www.coursera.org/account/accomplishments/specialization/SVNEUG3D9TA3).
+[^2]: [Python for Everybody by UMich](https://www.coursera.org/account/accomplishments/specialization/JHWWJPZ2TTEU), [Data Science: Foundations Using R by JHU](https://www.coursera.org/account/accomplishments/specialization/SVNEUG3D9TA3).
 [^3]: Currently on an indefinitive leave of absence.
 
 

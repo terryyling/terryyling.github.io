@@ -1,12 +1,29 @@
-# Product Strategy Manager
+## Product Strategy Manager
 
-## Educational Experience
-- University of Chicago, M.A. Sociology (On indefinite leave of absence since 2021)
-- University of Groningen, M.A. European Studies, 2017
-- Communication University of China, M.A. Portuguese Language and Culture, 2014
+### Core Competence
+- Adept at strategic roadmapping for product development
+- Proficiency in Agile product management methodologies
+- Data-driven decision making through qualitative and quantitative analysis
+- Strong stakeholder management for project alignment
+- Cross-cultural communication skills
+- Working knowledge of Python, R, and SQL
+- Strong adaptibility for project transitions
 
-## Professional Experience
-### Product Policy/Strategy Manager, TikTok
+### Selected Professional Experience
+#### Product Policy/Strategy Manager, TikTok
 *May 2021 - Present*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Dublin, Ireland*
+#### Executive Assistant to the CEO, Moeda
+*Oct 2017 - Sept 2018*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*New York, the United States*
+#### Product Manager, Baidu
+*Jul 2013 - Mar 2015*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Beijing, China*
+
+### Selected Educational Experience
+- **University of Chicago**, the United States, *M.A. Sociology* 2020-2021 (Leave of absence since 2021)
+- **University of Groningen**, the Netherlands, *M.A. European Studies*, 2015-2017
+- **University of Strasbourg**, France, M.A. European Studies, *dual degree*, 2016-2017
+- **Communication University of China**, *B.A. Portuguese Language and Culture*, 2010-2014
+- **Federal University of Rio Grande do Sul**, Brazil, B.A. Portuguese Language and Culture, *exchange study*, 2012-2013
+
+
 
 

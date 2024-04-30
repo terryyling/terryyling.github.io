@@ -29,6 +29,6 @@ Jul 2013 - Mar 2015: **Product Manager, Baidu**, *Beijing, China*
 
 ---
 
-[^1] Currently on an indefinitive leave of absence.
+[^1]: Currently on an indefinitive leave of absence.
 
 

@@ -1,6 +1,6 @@
 ## Product Strategy Manager
 
-### :pushpin: Core Competence
+### Core Competence
 - Adept at *strategic roadmapping* for product development
 - Proficiency in *Agile product management* methodologies
 - Data-driven decision making through *qualitative and quantitative analysis*[^1]
@@ -11,7 +11,7 @@
 
 ---
 
-### :man_technologist: Selected Professional Experience
+### Selected Professional Experience
 May 2021 - Present: **Product Policy/Strategy Manager, TikTok**, *Dublin, Ireland*  
   
 Oct 2017 - Sept 2018: **Executive Assistant to the CEO, Moeda**, *New York, the US*  
@@ -20,7 +20,7 @@ Jul 2013 - Mar 2015: **Product Manager, Baidu**, *Beijing, China*
 
 ---
 
-### :man_student: Selected Educational Experience
+### Selected Educational Experience
 **University of Chicago**, the United States, *M.A. Sociology*, 2021[^3]
   
 **University of Groningen**, the Netherlands, *M.A. European Studies*, 2017  

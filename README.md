@@ -21,7 +21,7 @@ Everyone's obessession with [Myers–Briggs Type Indicator (MBTI)](https://en.wi
 
 ---
   
-[^1]: If you do want to read it (not judging though), my [LinkedIn](https://www.linkedin.com/in/terryyling/) and [CV](/assets/pdf/cv.pdg) are both linked here and on the navigation bar.
+[^1]: If you do want to read it (not judging though), my [LinkedIn](https://www.linkedin.com/in/terryyling/) and [CV](/assets/pdf/cv.pdf) are both linked here and on the navigation bar.
 [^2]: [Basic Statistics by UvA](https://www.coursera.org/account/accomplishments/verify/QDUNXCMA3AZC).
 [^3]: [Python for Everybody by UMich](https://www.coursera.org/account/accomplishments/specialization/JHWWJPZ2TTEU), [Data Science: Foundations Using R by JHU](https://www.coursera.org/account/accomplishments/specialization/SVNEUG3D9TA3).
 [^4]: This also explains why I've attended so many different schools in my life.

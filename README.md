@@ -4,6 +4,8 @@ Hello, welcome to my webpage.
 
 I don't think you've come all the way here just to read another version of my resumé.[^1]  Therefore, instead of listing what I have achieved throughout my educational and professional life. I'd like to break this journey down into some of my core values and philosophies that guide me through my life.
 
+---
+
 ### *Shokunin Kishitsu*
 Known as the Japanese craftsman's spirit, *shokunin kishitsu*, symbolizes the hard work and dedeication of Japanese artisans who devote their lives to create delicate crafts and arts. I take the craftsmanship as the epitome of good work, which also semi-formalizes my own working style. I enjoy hands-on work to create, innovate and deliver, which is also why I'm always into developing my hands-on skillsets, from understanding the principles of statistics and quantitative analysis[^2] to using Python and R for data cleaning and drawing insights[^3], from learning Agile product management methodologies to using Scrum framework to guide prodcut development work.  
 

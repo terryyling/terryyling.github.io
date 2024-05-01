@@ -1,8 +1,8 @@
 ## Product Strategy Manager
 
-Hello, welcome to my webpage.
+Hello, this is Terry and welcome to my webpage.
 
-I don't think you've come all the way here just to read another version of my resumé.[^1]  Therefore, instead of listing what I have achieved throughout my educational and professional life. I'd like to break this journey down into some of my core values and philosophies that guide me through my life.
+I don't think you've come all the way here just to read another version of my resumé.[^1]  Therefore, instead of listing what I have achieved throughout my educational and professional life. I'd like to break this journey down into some of my core values and philosophies that guide me through my life. Hope these several scattered anecdotes could help you get to know me better.
 
 ---
 

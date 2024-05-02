@@ -10,12 +10,12 @@ color-scheme: auto
 #blank_title: true
 sidebar:
   - name: Curriculum Vitae
-    icon: <i class="fa-regular fa-file fa-sm"></i>
+    icon: <i class="fa-regular fa-file"></i>
     link: /assets/pdf/cv.pdf
   - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin-in fa-sm"></i>
+    icon: <i class="fa-brands fa-linkedin-in"></i>
     link: https://www.linkedin.com/in/terryyling/
   - name: Email
-    icon: <i class="fa-regular fa-envelope fa-sm"></i>
+    icon: <i class="fa-regular fa-envelope"></i>
     link: mailto:terry.lingyun@gmail.com
 github: [metadata]
